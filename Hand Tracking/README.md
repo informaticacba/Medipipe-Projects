@@ -1,14 +1,6 @@
 # Hand Tracking Projects
 
 So i have try to learn mediapipe library. For this, best way is to develop projects with it. This part of repo contains my hand tracking projects. 
-The projects in this repo are :
-
-    - Volume Control
-    - Virtual Mouse
-    - Virtual Keyboard
-    - Virtual Paint
-    - Image Control
-    - Dr Strange Filter
     
 ## Volume Control Demo
 
